@@ -19,3 +19,6 @@
 ---
 include:
   - board: seeeduino_xiao_rp2040
+    shield: corne_left
+  - board: seeeduino_xiao_rp2040
+    shield: corne_right
