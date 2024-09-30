@@ -18,4 +18,4 @@
 #
 ---
 include:
-  - board: ferris_rev02
+  - board: seeeduino_xiao_rp2040
