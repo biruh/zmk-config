@@ -20,7 +20,7 @@
 &trans  &trans  &trans  &trans  &trans    &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(NUMBER_4)  &trans
 &trans  &trans  &trans  &trans  &trans    &kp LG(LEFT)      &kp LG(DOWN)      &kp LG(UP)        &kp LG(RIGHT)     &trans
 &trans  &trans  &trans  &trans  &trans    &kp LG(N5)        &kp LG(NUMBER_6)  &kp LG(N7)        &trans            &trans
-                &trans  &none   &trans    &kp LS(Q)         &trans            &trans
+                &trans  &none   &trans    &kp LS(Q)         &kp LG(D)         &kp LG(ENTER)
             >;
         };
 
